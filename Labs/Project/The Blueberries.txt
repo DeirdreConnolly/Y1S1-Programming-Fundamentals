@@ -1,0 +1,9 @@
+Band Name: The Blueberries
+Payment: €2660.00
+Name: Deirdre
+Email: deirdre@gmail.com
+Phone: 029
+Start Date: 
+Days: 7
+Number of Band Members: 2
+Session Musicians: 4
